@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jcaniumilla/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/jcaniumilla/static/js/main.736a6f2a.chunk.js",
+    "main.js.map": "/jcaniumilla/static/js/main.736a6f2a.chunk.js.map",
+    "runtime-main.js": "/jcaniumilla/static/js/runtime-main.9c0a3a3e.js",
+    "runtime-main.js.map": "/jcaniumilla/static/js/runtime-main.9c0a3a3e.js.map",
+    "static/js/2.c457c7a4.chunk.js": "/jcaniumilla/static/js/2.c457c7a4.chunk.js",
+    "static/js/2.c457c7a4.chunk.js.map": "/jcaniumilla/static/js/2.c457c7a4.chunk.js.map",
+    "static/js/3.2c3c08b4.chunk.js": "/jcaniumilla/static/js/3.2c3c08b4.chunk.js",
+    "static/js/3.2c3c08b4.chunk.js.map": "/jcaniumilla/static/js/3.2c3c08b4.chunk.js.map",
+    "index.html": "/jcaniumilla/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/jcaniumilla/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c457c7a4.chunk.js.LICENSE.txt": "/jcaniumilla/static/js/2.c457c7a4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jcaniumilla/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c0a3a3e.js",
+    "static/js/2.c457c7a4.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.736a6f2a.chunk.js"
+  ]
+}
